@@ -21,3 +21,15 @@ vless://70a170f1-e57b-4938-a425-4caab4cc6987@151.101.67.174:80?type=xhttp&path=%
 vless://70a170f1-e57b-4938-a425-4caab4cc6987@151.101.185.179:80?type=xhttp&path=%2F&host=cdn-expatriate.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-ac19ec5a
 vless://70a170f1-e57b-4938-a425-4caab4cc6987@151.101.36.23:80?type=xhttp&path=%2F&host=cdn-expatriate.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-1b33cc14
 vless://70a170f1-e57b-4938-a425-4caab4cc6987@151.101.34.72:80?type=xhttp&path=%2F&host=cdn-expatriate.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-389f33e7
+
+# Irancell
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@146.75.67.189:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-61b00c29
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@146.75.64.100:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-bebb55f6
+vless://70a170f1-e57b-4938-a425-4caab4cc6987@146.75.67.246:80?type=xhttp&path=%2F&host=cdn-expatriate.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-5e690cbc
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@167.82.66.199:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-20b03bdc
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@199.232.206.210:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-c3c67099
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@199.232.129.207:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-1a0077c7
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@167.82.101.155:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-28978c05
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@167.82.49.112:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-b54c35ea
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@167.82.102.191:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-2b19aad0
+vless://b485902b-b064-4d3c-90a7-9bad8799d7fb@199.232.11.214:80?type=xhttp&path=%2F&host=cdn-test-2.global.ssl.fastly.net&mode=auto&security=none#sin-fastly-2514f017
