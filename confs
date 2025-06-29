@@ -9,6 +9,9 @@ vless://26b2b5e1-c805-4383-c1c2-3045f958472e@5.253.27.211:8081?security=&encrypt
 vless://6c5926ee-6d63-4f4e-f2f8-60b6f6d67e6d@188.121.105.187:8081?type=tcp&security=none#sin-2f8piqdb2
 vless://67b25099-bcf7-46f8-99e0-43a1a82bab88@188.121.109.238:8081?type=tcp&security=none#sin-816orqlvu
 vless://e8062215-a076-4d57-b1ef-24dff9b5094b@37.32.7.76:8081?type=tcp&security=none#sin-9c5z0hd80
+vless://249a0ee4-a50b-45e1-8744-7079bd38379f@185.226.118.163:6061?type=tcp&security=none#sin-j7wmmeguh
+vless://3baf53e4-64a6-46cd-934e-11bda75f9b79@185.226.118.163:7071?type=tcp&security=none#sin-1-4beob8qe6
+
 
 
 # Hamrah
