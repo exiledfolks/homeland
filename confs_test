@@ -1,19 +1,12 @@
 
-### VLESS (12) ###
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#🕊️ freedom-8208
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🕊️ freedom-8594
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40ff_kikor%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🕊️ freedom-3585
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40ff_kikor%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🕊️ freedom-6717
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🕊️ freedom-3257
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🕊️ freedom-3950
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#🕊️ freedom-7202
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&encryption=none&host=vless8-ekh.pages.dev&type=ws&sni=vless8-ekh.pages.dev#🕊️ freedom-4193
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#🕊️ freedom-3656
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🕊️ freedom-2852
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🕊️ freedom-4293
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🕊️ freedom-4486
+### VLESS (6) ###
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🕊️ freedom-4481  # 2012.14 KB/s
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#🕊️ freedom-7970  # 1605.35 KB/s
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#🕊️ freedom-9100  # 1579.79 KB/s
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🕊️ freedom-7845  # 1308.23 KB/s
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🕊️ freedom-3782  # 1140.71 KB/s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#🕊️ freedom-5275  # 161.11 KB/s
 
-### SS (3) ###
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#🕊️ freedom-5181
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🕊️ freedom-4248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🕊️ freedom-7993
+### SS (2) ###
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDdAOTMuMTUyLjIwNy4xNjc6NDQz#🕊️ freedom-4772  # 1031.75 KB/s
+ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdkAxMDMuMTUuOTEuMTcxOjUyMzI3#🕊️ freedom-7842  # 406.96 KB/s
