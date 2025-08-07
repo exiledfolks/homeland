@@ -119,7 +119,6 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxre
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1#🕊️ freedom-2986
 trojan://blue2024@108.162.195.192:443?security=tls&type=ws&sni=tb.promote.icu&path=/&host=tb.promote.icu#🕊️ freedom-3151
 trojan://blue2024@172.67.181.209:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-6424
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#🕊️ freedom-3603
 trojan://blue2024@104.17.217.138:443?allowInsecure=1&sni=td.promote.icu#🕊️ freedom-6810
 trojan://blue2024@craig.ns.cloudflare.com:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-7669
 trojan://blue2024@162.159.60.183:443?allowInsecure=1&sni=td.promote.icu#🕊️ freedom-1459
@@ -283,9 +282,8 @@ trojan://NISHIKUITAN111@185.135.9.41:443?#🕊️ freedom-2449
 trojan://blue2024@104.18.159.179:443?allowInsecure=1&sni=td.promote.icu#🕊️ freedom-8358
 trojan://blue2024@ip.gs:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-3817
 trojan://NISHIKUITAN111@172.66.42.99:443?#🕊️ freedom-9324
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🕊️ freedom-9670
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-6500
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🕊️ freedom-4008
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🕊️ freedom-2014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🕊️ freedom-9296
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🕊️ freedom-7949
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?encryption=none&security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=%2F%3F%40VPN_ROOM------%40VPN_ROOM#🕊️ freedom-2343
 trojan://SSorg@206.238.237.118:8443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🕊️ freedom-8848
@@ -300,3 +298,10 @@ trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@143.110.155.169:443?security=tls&sni=www.baidu.com#🕊️ freedom-1870
 trojan://NISHIKUITAN111@104.16.23.120:443?#🕊️ freedom-6199
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🕊️ freedom-9589
+vless://3e0dd3e8-1ff4-413a-a9f9-8ab2ba94ced1@45.82.161.120:24199?security=none&encryption=none&headerType=none&type=tcp#🕊️ freedom-8064
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🕊️ freedom-1801
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🕊️ freedom-7502
+trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🕊️ freedom-1467
+trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#🕊️ freedom-1920
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🕊️ freedom-9072
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-5113
