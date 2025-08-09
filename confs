@@ -13,7 +13,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRA
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#🕊️ freedom-9282
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#🕊️ freedom-3715
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🕊️ freedom-1918
-vless://9c7b6571-bf05-4072-98c3-fc8bec98551b@0.0.0.einetwork.news:8443?security=tls&sni=Mail.EiNetwork.News&fp=randomized&type=ws&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&host=Mail.EiNetwork.News&encryption=none#🕊️ freedom-5523
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#🕊️ freedom-7973
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#🕊️ freedom-5506
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?type=ws&path=/vless/#🕊️ freedom-9729
@@ -281,13 +280,12 @@ trojan://NISHIKUITAN111@185.135.9.41:443?#🕊️ freedom-2449
 trojan://blue2024@104.18.159.179:443?allowInsecure=1&sni=td.promote.icu#🕊️ freedom-8358
 trojan://blue2024@ip.gs:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-3817
 trojan://NISHIKUITAN111@172.66.42.99:443?#🕊️ freedom-9324
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🕊️ freedom-3387
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🕊️ freedom-3357
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🕊️ freedom-5610
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🕊️ freedom-7813
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🕊️ freedom-7949
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?encryption=none&security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=%2F%3F%40VPN_ROOM------%40VPN_ROOM#🕊️ freedom-2343
 trojan://SSorg@206.238.237.118:8443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#🕊️ freedom-8848
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#🕊️ freedom-7112
-trojan://blue2024@www.ddwhm.com:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-3204
 trojan://psycho@104.21.112.1:443?security=tls&sni=pSYcho.sUeX12.IR#🕊️ freedom-2222
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@104.248.68.184:443?allowInsecure=1&sni=www.baidu.com#🕊️ freedom-1308
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#🕊️ freedom-4098
@@ -302,5 +300,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fpro
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🕊️ freedom-1467
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#🕊️ freedom-1920
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🕊️ freedom-9072
-trojan://Aimer@154.26.181.30:45956?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🕊️ freedom-6440
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-2324
