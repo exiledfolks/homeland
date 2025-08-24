@@ -252,7 +252,6 @@ trojan://blue2024@104.21.57.42:443?allowInsecure=1&sni=ta.promote.icu#🕊️ fr
 trojan://blue2024@172.64.154.11:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-3621
 trojan://NISHIKUITAN111@104.20.46.117:443?#🕊️ freedom-3361
 trojan://NISHIKUITAN111@173.245.49.248:443?#🕊️ freedom-1307
-trojan://ttfang@103.106.230.186:81?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🕊️ freedom-6539
 trojan://blue2024@104.24.57.147:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-3820
 trojan://NISHIKUITAN111@104.24.90.46:443?allowInsecure=1#🕊️ freedom-6929
 trojan://NISHIKUITAN111@104.26.11.126:443?allowInsecure=1#🕊️ freedom-3795
@@ -332,7 +331,6 @@ trojan://ttfang@45.40.152.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path
 trojan://Aimer@63.141.128.66:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-2136
 trojan://ttfang@45.131.6.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-6253
 trojan://ttfang@5.10.245.216:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#🕊️ freedom-2219
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-7478
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%2F%3F-Join---MTMVPN---Join---MTMVPN---Join---MTMVPN---Join---MTMVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#🕊️ freedom-6994
 trojan://Aimer@141.11.203.168:443?security=tls&sni=epgc.aimercc.dpdns.org&type=ws&path=%2F%3Fed%3D2560&Host=epgc.aimercc.dpdns.org#🕊️ freedom-9353
 trojan://Aimer@135.84.74.254:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-8024
@@ -358,7 +356,6 @@ trojan://blue2024@www.digitalocean.com:443?allowInsecure=1&sni=ta.promote.icu#�
 trojan://ttfang@62.72.166.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4707
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir#🕊️ freedom-4873
 trojan://slch2024@104.18.3.108:8443?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/&Host=ocost-dy.wmlefl.cc#🕊️ freedom-6328
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@25.129.197.113:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---#🕊️ freedom-4068
 trojan://ttfang@50.62.195.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-9918
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#🕊️ freedom-1044
 trojan://ttfang@50.62.90.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-5769
@@ -371,3 +368,8 @@ trojan://ttfang@45.40.154.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path
 trojan://ttfang@45.40.148.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-9896
 trojan://ttfang@5.182.84.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-9195
 ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@156.244.1.59:13879#🕊️ freedom-1176
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3F-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#🕊️ freedom-3758
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:7177?allowInsecure=1&sni=v1-dy.ixigua.com#🕊️ freedom-6297
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:3171?security=tls&sni=v1-dy.ixigua.com#🕊️ freedom-3714
+trojan://ttfang@104.129.164.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-7794
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-3498
