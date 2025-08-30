@@ -307,7 +307,7 @@ trojan://Aimer@154.17.10.113:12266?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=
 trojan://Aimer@5.182.84.50:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-1391
 trojan://Aimer@188.164.159.55:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-9308
 trojan://Aimer@108.165.152.78:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#🕊️ freedom-6904
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🕊️ freedom-4641
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🕊️ freedom-5410
 trojan://Aimer@176.124.223.40:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-1625
 trojan://Aimer@155.46.213.38:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-8522
 trojan://Aimer@188.164.159.18:443?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#🕊️ freedom-8276
@@ -338,7 +338,6 @@ vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=%2Fsg3%3Fed%3
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%3Fed%3D2560%2F%3FJKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#🕊️ freedom-7081
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🕊️ freedom-9961
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#🕊️ freedom-3795
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4T1VDRjZJRmFlWVpXNW55aTZaU2Ez@104.192.227.162:443#🕊️ freedom-4525
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%2F%3F-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#🕊️ freedom-6473
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.0.108:443?path=%2Fsg3%3Fed%3D2560%2F%3FJKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#🕊️ freedom-5437
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#🕊️ freedom-8601
@@ -385,7 +384,6 @@ vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?path=%2Fsg10%2F%3
 trojan://ttfang@45.142.120.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-7112
 trojan://ttfang@45.149.12.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-3049
 trojan://ttfang@50.62.91.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4265
-trojan://ttfang@5.182.85.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-3595
 trojan://ttfang@77.75.199.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4435
 trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#🕊️ freedom-2087
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443?security=tls&sni=www.baidu.com#🕊️ freedom-4986
@@ -401,3 +399,10 @@ trojan://ttfang@166.62.110.194:2096?security=tls&sni=ttfang.fange.me&type=ws&pat
 trojan://ttfang@198.71.189.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-5499
 trojan://Aimer@104.129.166.131:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-2993
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cjlxZGs5ZXBITXM3VG1oYmVMNUlE@94.159.96.245:11902#🕊️ freedom-3021
+trojan://ttfang@185.174.138.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-2884
+trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443?security=tls&sni=XXXXxxXxXc.666461.xyZ&type=ws&path=/x9F83IcyjcEyBXZBROjL3Q5vTymrhttp/1.1&Host=XXXXxxXxXc.666461.xyZ#🕊️ freedom-6585
+trojan://ttfang@45.80.111.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram&Host=ttfang.fange.me#🕊️ freedom-6321
+trojan://ttfang@198.71.232.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-5318
+trojan://ttfang@185.251.83.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4514
+trojan://ttfang@193.124.18.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-7062
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#🕊️ freedom-8456
