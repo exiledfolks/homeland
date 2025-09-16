@@ -18,7 +18,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?security=&encryption=none&type=grpc#🕊️ freedom-3847
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fv2ray_configs_pools%3Dzani.yaemiko.ggff.net#🕊️ freedom-2036
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=%2FeJ5JZ3A1HxfU0bPO%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vNgSUppLy.IP-dDnS.COm#🕊️ freedom-3047
-vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFNoYWRvd1Byb3h5NjYg8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🕊️ freedom-3981
 trojan://NISHIKUITAN111@172.67.234.222:443?#🕊️ freedom-2945
 trojan://NISHIKUITAN111@172.67.233.168:443?#🕊️ freedom-4962
 trojan://blue2024@108.162.195.199:443?sni=ta.promote.icu#🕊️ freedom-8954
@@ -475,7 +474,6 @@ trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🕊️ freedom-6452
 trojan://slch2024@193.9.49.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🕊️ freedom-5519
 trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🕊️ freedom-5286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🕊️ freedom-6854
 trojan://slch2024@190.93.245.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#🕊️ freedom-8615
 trojan://slch2024@185.251.80.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#🕊️ freedom-2538
 trojan://slch2024@209.94.90.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#🕊️ freedom-9035
