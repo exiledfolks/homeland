@@ -82,7 +82,6 @@ trojan://NISHIKUITAN111@172.67.234.222:443?#🕊️ freedom-3038
 trojan://NISHIKUITAN111@173.245.49.248:443?#🕊️ freedom-3475
 trojan://NISHIKUITAN111@185.170.166.26:443?#🕊️ freedom-1794
 trojan://NISHIKUITAN111@172.67.242.135:443?#🕊️ freedom-2515
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#🕊️ freedom-2504
 trojan://ttfang@89.116.180.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-7625
 trojan://blue2024@104.24.129.215:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-2674
 trojan://NISHIKUITAN111@108.162.192.252:443?#🕊️ freedom-7940
@@ -207,9 +206,7 @@ trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zam
 trojan://NISHIKUITAN111@104.26.11.126:443?allowInsecure=1#🕊️ freedom-4418
 trojan://NISHIKUITAN111@172.64.49.211:443?#🕊️ freedom-3283
 trojan://blue2024@172.67.141.40:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-4995
-trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#🕊️ freedom-7444
 trojan://ttfang@185.251.83.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4215
-trojan://NISHIKUITAN111@104.17.141.12:443?allowInsecure=1#🕊️ freedom-5111
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir#🕊️ freedom-4947
 trojan://ttfang@185.174.138.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-9817
 trojan://NISHIKUITAN111@104.24.40.237:443?#🕊️ freedom-7494
@@ -333,7 +330,6 @@ trojan://NISHIKUITAN111@104.16.106.69:443?allowInsecure=1#🕊️ freedom-9520
 trojan://NISHIKUITAN111@104.25.101.27:443?#🕊️ freedom-9675
 trojan://ttfang@45.40.154.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-8942
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari&alpn=http%2F1.1#🕊️ freedom-7719
-trojan://ttfang@77.75.199.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-8953
 trojan://NISHIKUITAN111@188.164.158.111:443?#🕊️ freedom-7585
 trojan://blue2024@104.16.64.250:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-8927
 trojan://ttfang@45.130.125.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-4721
@@ -422,3 +418,9 @@ vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?encryption=none&security=tls&sni=gulf-d96.pages.dev&fp=randomized&type=ws&host=gulf-d96.pages.dev&path=%2FecY3gziM8W6ud5yj%3Fed%3D2560#🕊️ freedom-5680
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.47.82:2053?encryption=none&security=tls&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=randomized&type=ws&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&path=%2FoqLIXWAi6lzpnumQ#🕊️ freedom-8888
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🕊️ freedom-9442
+trojan://ttfang@77.75.199.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-9998
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#🕊️ freedom-4435
+trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#🕊️ freedom-8119
+trojan://NISHIKUITAN111@104.17.141.12:443?allowInsecure=1#🕊️ freedom-3978
+trojan://slch2024@193.233.132.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#🕊️ freedom-6337
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMjZaTHhESTBWSGlBUjJ1S1V2RE96@197.140.142.74:8443#🕊️ freedom-2923
