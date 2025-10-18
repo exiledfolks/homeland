@@ -226,7 +226,6 @@ trojan://blue2024@104.18.138.78:443?allowInsecure=1&sni=td.promote.icu#🕊️ f
 trojan://Aimer@5.182.84.50:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#🕊️ freedom-1987
 trojan://blue2024@172.67.243.218:443?sni=ta.promote.icu#🕊️ freedom-2770
 trojan://blue2024@104.17.217.138:443?allowInsecure=1&sni=td.promote.icu#🕊️ freedom-2637
-trojan://blue2024@172.67.70.84:443?security=tls&type=ws&sni=hb.lii2010.us.kg#🕊️ freedom-2105
 trojan://NISHIKUITAN111@185.135.9.137:443?#🕊️ freedom-9844
 trojan://NISHIKUITAN111@104.20.10.135:443?allowInsecure=1#🕊️ freedom-2623
 trojan://ttfang@45.149.12.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-5398
@@ -238,7 +237,6 @@ trojan://Aimer@135.84.64.36:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=25
 trojan://NISHIKUITAN111@104.24.71.245:443?#🕊️ freedom-5630
 trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#🕊️ freedom-8483
 trojan://slch2024@185.221.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🕊️ freedom-5123
-trojan://blue2024@195.85.59.95:443?security=tls&sni=hb.lii2010.us.kg&type=ws&serviceName=👨‍🚀Free👨‍🚀&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#🕊️ freedom-6230
 trojan://ttfang@5.10.245.216:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#🕊️ freedom-6157
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🕊️ freedom-4653
 trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#🕊️ freedom-1529
@@ -421,3 +419,13 @@ trojan://slch2024@193.233.132.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=
 trojan://blue2024@104.19.126.235:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-7272
 trojan://ttfang@72.167.25.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-1402
 trojan://NISHIKUITAN111@162.159.16.224:443?#🕊️ freedom-9808
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-1675
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-4857
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🕊️ freedom-3675
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?path=%2F&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#🕊️ freedom-9998
+vless://a7fc5384-cff7-4e71-af32-93734dac864f@193.24.209.127:52289?security=none&encryption=none&headerType=none&type=tcp#🕊️ freedom-6870
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🕊️ freedom-6247
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-1398
+trojan://blue2024@172.67.70.84:443?security=tls&type=ws&sni=hb.lii2010.us.kg#🕊️ freedom-6076
+trojan://blue2024@195.85.59.95:443?security=tls&sni=hb.lii2010.us.kg&type=ws&serviceName=👨‍🚀Free👨‍🚀&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#🕊️ freedom-8082
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#🕊️ freedom-8918
