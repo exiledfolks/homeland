@@ -417,7 +417,6 @@ trojan://NISHIKUITAN111@104.17.141.12:443?allowInsecure=1#🕊️ freedom-3978
 trojan://blue2024@104.19.126.235:443?allowInsecure=1&sni=ta.promote.icu#🕊️ freedom-7272
 trojan://ttfang@72.167.25.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🕊️ freedom-1402
 trojan://NISHIKUITAN111@162.159.16.224:443?#🕊️ freedom-9808
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-4857
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🕊️ freedom-3675
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?path=%2F&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#🕊️ freedom-9998
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#🕊️ freedom-6247
@@ -433,7 +432,6 @@ trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=%2FFree-VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🕊️ freedom-5617
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&authority=%40v2raymtm&type=grpc#🕊️ freedom-8099
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2g1YW9RZGNYMG5aWENBSDV5Rjc1@77.91.101.132:43458#🕊️ freedom-8642
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🕊️ freedom-4941
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🕊️ freedom-2285
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-7390
 trojan://9a7b890c-0881-4a6a-ab91-580bc19acafc@104.21.70.241:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#🕊️ freedom-9689
