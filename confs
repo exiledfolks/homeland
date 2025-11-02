@@ -435,7 +435,6 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=1
 trojan://DailyConfigs@104.18.12.229:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🕊️ freedom-7406
 trojan://blue2024@104.17.114.140:443?sni=ha.lii2010.us.kg#🕊️ freedom-6652
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#🕊️ freedom-2445
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#🕊️ freedom-3005
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#🕊️ freedom-1150
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-3605
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.244:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#🕊️ freedom-6085
@@ -445,7 +444,6 @@ trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2FTelegr
 trojan://blue2024@decker.ns.cloudflare.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🕊️ freedom-5830
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#🕊️ freedom-7418
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-5627
-vmess://eyJhZGQiOiIzNy4yNy4yNDkuOTMiLCJuZXQiOiJ0Y3AiLCJ2IjoiMiIsImFpZCI6IjAiLCJwb3J0IjoiMzAwMDAiLCJzY3kiOiJhdXRvIiwicHMiOiJAbWVsaV9wcm94eXkiLCJpZCI6IjMxYWYxOGNhLTEyN2EtNGIwNC05Y2ZiLWM0NjE2ZDZhZGE2MCIsInR5cGUiOiJub25lIn0=`#🕊️ freedom-3503
 trojan://blue2024@dnschecker.org:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🕊️ freedom-5783
 trojan://D3OJA7xY5U@209.200.246.53:10785?mode=gun&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&type=grpc&sni=cloudflare.com&sid=20b09680#🕊️ freedom-7338
 trojan://blue2024@www.whatismyip.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🕊️ freedom-3006
@@ -455,3 +453,7 @@ trojan://blue2024@198.62.62.4:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath
 trojan://blue2024@lewis.ns.cloudflare.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🕊️ freedom-9758
 trojan://slch2024@193.233.132.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#🕊️ freedom-5946
 trojan://blue2024@abdullah.ns.cloudflare.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🕊️ freedom-9055
+vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@ip.sb:443?path=%2Fn5p71f3qbfuanejf%2Fntqunzqumty3ljixoq%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=434e5fe7.ie-97c.pages.dev&fp=randomized&type=ws&sni=434e5fe7.ie-97c.pages.dev#🕊️ freedom-8037
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&type=grpc#🕊️ freedom-4215
+trojan://er668@kfjdi.pages.dev:443?path=%2F&security=tls&type=ws#🕊️ freedom-9753
+trojan://trojan@ip.sb:8443?path=%2F%3Fed%3D2560&security=tls&host=qianlang.pages.dev&fp=random&type=ws&sni=qianlang.pages.dev#🕊️ freedom-2571
