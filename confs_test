@@ -139,7 +139,6 @@ vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?path=%2F%3Fed%3
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fcd152189f.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fcd152189f.workers.dev#🕊️ freedom-2191
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#🕊️ freedom-8453
 vless://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248?security=none&encryption=none&headerType=none&type=tcp#🕊️ freedom-4779
-vless://da95628c-3091-4a88-8d94-9d9c9cd8bb3d@publ.devpirate.baby:49680?encryption=none&security=none&type=tcp&headerType=none#🕊️ freedom-1042
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@ger2.panbehpanel.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=panbehpanel.ir#🕊️ freedom-8904
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#🕊️ freedom-2153
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#🕊️ freedom-5078
@@ -148,4 +147,5 @@ vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=%
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#🕊️ freedom-5608
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@am-ircdn.panbehpanel.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=panbehpanel.ir#🕊️ freedom-5560
 vmess://eyJhZGQiOiIxOTIuMjI3LjI0OS4yMjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2IxMzQyNTItZTdjMi00M2RmLTk4YjctZGEyMDQxMDRhYTc5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzY0MSIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```#🕊️ freedom-9656
-vless://d082b5e0-2435-4599-b935-d2c2b70beb67@cloudflare-ip.mofashi.ltd:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&type=ws&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev#🕊️ freedom-9574
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#🕊️ freedom-2925
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn11.suio.me:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn11.suio.me#🕊️ freedom-5051
