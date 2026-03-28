@@ -20,7 +20,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.252.21.36:443?encryption=none&sec
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.39:2053?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🕊️ freedom-8599
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#🕊️ freedom-7825
 vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6IkB2MnJheWNvbmZpZ2FtaXIgNzkyNyIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==```#🕊️ freedom-1149
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@178.173.250.59:443?encryption=none&path=/&security=none&type=ws#🕊️ freedom-4846
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.115:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🕊️ freedom-3940
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.77.58:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🕊️ freedom-7402
 vless://c5a7ef27-9f32-4acf-bf28-6421fb579f9b@tr.morty02.shop:46567?security=&encryption=none&headerType=&type=tcp#🕊️ freedom-5199
@@ -39,3 +38,17 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMTcyLjIzMy4yMjkuOTEi
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#🕊️ freedom-3554
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.126:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🕊️ freedom-6181
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🕊️ freedom-1893
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F&security=tls&encryption=none&insecure=1&host=rayan-007.foton.dpdns.org&type=ws&allowInsecure=1&sni=rAyAn-007.fOtOn.dPdNs.oRg#🕊️ freedom-7560
+vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#🕊️ freedom-2382
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🕊️ freedom-2286
+vless://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#🕊️ freedom-4229
+vless://130e98f6-18ad-4505-9a6e-6e00424bd058@172.64.146.102:443?allowInsecure=1&encryption=none&host=639073677251729790.corolla-perma.info&path=/jsdrzrws&security=tls&sni=639073677251729790.corolla-perma.info&type=ws#🕊️ freedom-2282
+vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&type=ws&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#🕊️ freedom-7610
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.16.239.205:80?path=%2F&security=none&encryption=none&host=sfsl.ardomains1.dpdns.org&type=ws#🕊️ freedom-3923
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🕊️ freedom-1014
+vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?path=%2F&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#🕊️ freedom-8671
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?path=%2F&security=none&encryption=none&host=mute-violet-c674.poviy66273.workers.dev&type=ws#🕊️ freedom-7580
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.150.65:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🕊️ freedom-1286
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🕊️ freedom-4001
+vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@www.visa.com.sg:8880?path=%2F&security=none&encryption=none&host=square-frost-8d11.9660004.workers.dev&type=ws#🕊️ freedom-9642
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?path=%2F&security=none&encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&type=ws#🕊️ freedom-2552
