@@ -133,7 +133,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.9:2053?path=%2F%3Fed%3D2
 vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.12.229:8880?path=%2F&security=none&encryption=none&host=square-frost-8d11.9660004.workers.dev&type=ws#🕊️ freedom-9346
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.117:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🕊️ freedom-7968
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.59:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🕊️ freedom-7744
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443#🕊️ freedom-9431
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🕊️ freedom-9963
 vless://5db4fb64-d99f-4745-b550-9e937bd2f448@172.66.202.57:443?allowInsecure=1&encryption=none&host=steep-poetry-829c.false-mossy-caucus.workers.dev&security=tls&sni=steep-poetry-829c.false-mossy-caucus.workers.dev&type=ws#🕊️ freedom-2514
 vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🕊️ freedom-9149
@@ -311,3 +310,5 @@ vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@sweden.gandopaneel.ir:443?security=
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.32.189:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🕊️ freedom-5806
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?#🕊️ freedom-8735
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🕊️ freedom-1153
+vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087?encryption=none&security=none&sni=178.104.118.247&type=tcp&headerType=none#🕊️ freedom-4649
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🕊️ freedom-1737
